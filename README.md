@@ -45,6 +45,6 @@ I like to know every detail of things I do and to figure out new ways to do old 
 
 ## Get in touch
 
-- [Twitter](https://twitter.com/_thiagomrs)
+- [Twitter](https://twitter.com/thiagodmor)
 - [Linkedin](https://www.linkedin.com/in/thiago-mr/)
 - [Dev.to](https://dev.to/thiagomr)
