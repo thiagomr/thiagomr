@@ -15,7 +15,7 @@ Hey there, I'm Thiago Moraes - a Software Engineer who is passionate about open-
 
 ## What I do
 
-Currenty my favorite technologies are Node JS, Docker and Kubernetes. I'm working with scalability, high availability, cloud infrastructure and microservices architecture. I'm also writing some articles to [dev.to](https://dev.to/thiagomr) and trying to contribute with Open-Source.
+Currently my favorite technologies are Node JS, Docker and Kubernetes. I'm working with scalability, high availability, cloud infrastructure and microservices architecture. I'm also writing some articles to [dev.to](https://dev.to/thiagomr) and trying to contribute with Open-Source.
 
 ## How I Work
 
