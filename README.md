@@ -1,6 +1,6 @@
 ## Who am I
 
-Hey there, I'm Thiago Moraes - a Software Engineer who is passionate about open-source, performance, innovation and believes that it's possible to change the world with techology power. I'm also a content creator, retro gamer, kung fu fighter, design and music lover.
+Hey there, I'm Thiago Moraes - a Software Engineer who is passionate about open-source, performance, innovation and believes that it's possible to change the world with technology power. I'm also a content creator, retro gamer, kung fu fighter, drawer and music lover.
 
 ## Values
 
