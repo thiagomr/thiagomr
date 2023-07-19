@@ -1,6 +1,6 @@
 ## Who am I
 
-Hey there, I'm Thiago Moraes - a Software Engineer who is passionate about open-source, performance, innovation and believes that it's possible to change the world with technology power. I'm also a content creator, retro gamer, kung fu fighter, drawer and music lover.
+Hey there, I'm Thiago Moraes - a Software Engineer who is passionate about open-source, performance, innovation and believes that it's possible to change the world with technology power. I'm also a tennis player, drawer and music lover.
 
 ## Values
 
@@ -15,7 +15,7 @@ Hey there, I'm Thiago Moraes - a Software Engineer who is passionate about open-
 
 ## What I do
 
-Currently my favorite technologies are Node JS, Docker and Kubernetes. I'm working with scalability, high availability, cloud infrastructure and microservices architecture. I'm also writing some articles to [dev.to](https://dev.to/thiagomr) and trying to contribute with Open-Source.
+Currently my favorite technologies are Node JS, Docker and Kubernetes. I've been worked with scalability, high availability, cloud infrastructure and microservices architecture.
 
 ## How I Work
 
